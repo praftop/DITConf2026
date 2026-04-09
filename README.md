@@ -34,11 +34,11 @@
 
 ## Περισσότερες Πληροφορίες  
 Για περισσότερες πληροφορίες, επισκεφθείτε τη σελίδα:  
-[![Website](https://img.shields.io/badge/Website-dit.uop.gr-blue)](https://dit.uop.gr/studentconf)
+[![Website](https://img.shields.io/badge/Website-dit.uop.gr-blue)]([https://dit.uop.gr/studentconf](https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion))
 
 ---
 
 ## Επικοινωνία  
 Για ερωτήσεις ή διευκρινίσεις, επικοινωνήστε μαζί μας:  
 📧 Email: [kseklou@uop.gr](mailto:kseklou@uop.gr)  
-🌐 Website: [https://dit.uop.gr/studentconf](https://dit.uop.gr/studentconf)
+🌐 Website: [https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion](https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion)
