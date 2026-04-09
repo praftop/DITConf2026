@@ -33,7 +33,7 @@
 ---
 
 ## Περισσότερες Πληροφορίες
-Για περισσότερες πληροφορίες, επισκεφθείτε τη σελίδα:
+Για περισσότερες πληροφορίες, επισκεφθείτε τη σελίδα:  
 🌐 Website: [https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion](https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion)
 
 ---
