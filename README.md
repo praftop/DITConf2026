@@ -34,7 +34,7 @@
 
 ## Περισσότερες Πληροφορίες  
 Για περισσότερες πληροφορίες, επισκεφθείτε τη σελίδα:  
-[![Website](https://img.shields.io/badge/Website-dit.uop.gr-blue)]([https://dit.uop.gr/studentconf](https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion))
+[![Website](https://img.shields.io/badge/Website-dit.uop.gr-blue)]([https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion](https://dit.uop.gr/news/2o-foititiko-synedrio-pliroforikis-kai-tilepikoinonion))
 
 ---
 
