@@ -3,8 +3,6 @@
 ![Conference Date](https://img.shields.io/badge/Ημερομηνία-3%20Ιουνίου%202026-blue)  
 ![Submission Deadline](https://img.shields.io/badge/Προθεσμία%20Υποβολής-15%20Μαΐου%202026-red)  
 
-![studentconfhigh](https://github.com/user-attachments/assets/e53bd78b-7e7f-4988-81dd-de0a74d5c315)
-
 
 ## Περιγραφή  
 Το παρόν αποθετήριο περιέχει το πρότυπο **LaTeX** για τις εργασίες που θα σταλούν στο 2ο Φοιτητικό Συνέδριο του Τμήματος Πληροφορικής και Τηλεπικοινωνιών του Πανεπιστημίου Πελοποννήσου.
